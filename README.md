@@ -8,13 +8,14 @@
 
 ## 🚀 About Me
 
-🎓 **B.E. Information Science** @ Dayananda Sagar College of Engineering | **CGPA: 8.95**  
+🎓 **B.E. Information Science** @ Dayananda Sagar College of Engineering 
+
 🤖 **ML/AI Engineer | Open-Source Contributor | Hackathon Enthusiast**
 
 - 🔥 Building **large-scale ML pipelines & intelligent systems**
 - 🌊 Worked on **real-time computer vision** (YOLO-based underwater detection)
 - 📊 Processed **1M+ biometric records** for national-scale anomaly detection
-- 🤝 Merged **PR #5399** in [prefix-dev/pixi](https://github.com/prefix-dev/pixi) — active open-source contributor
+- 🤝 active open-source contributor
 - 🧠 Exploring **AI, MLOps, system design & data engineering**
 - ⚡ Love **hackathons** — CMRIT Hackathon 2nd Runner Up 🥉
 
@@ -53,6 +54,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627)](https://www.tableau.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811)](https://powerbi.microsoft.com/)
 [![N8N](https://img.shields.io/badge/N8N-EA4B71)](https://n8n.io/)
+[![Rust](https://img.shields.io/badge/Rust-000000)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C)](https://isocpp.org/)
 
 ---
 
