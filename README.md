@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=3AA1FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Varun+Khatri;ML+%26+AI+Engineer;Open-Source+Contributor;Building+Intelligent+Systems)](https://github.com/varun-kht)
 [![Profile Views](https://count.getloli.com/get/@varun-kht?theme=rule34)](https://github.com/varun-kht)
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/varun-kht)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunkhatri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-khatri-1001b9322/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:varunkhatrioffical.1@gmail.com)
 
 ---
