@@ -98,5 +98,5 @@
 ## 📫 Connect With Me
 
 - 📧 **[varunkhatrioffical.1@gmail.com](mailto:varunkhatrioffical.1@gmail.com)**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/varunkhatri
+- 💼 **LinkedIn:** https://www.linkedin.com/in/varun-khatri-1001b9322/
 - 🌐 **GitHub:** https://github.com/varun-kht
