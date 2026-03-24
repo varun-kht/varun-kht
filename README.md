@@ -37,6 +37,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-4479A1)](https://www.mysql.com/)
+[![Rust](https://img.shields.io/badge/Rust-000000)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C)](https://isocpp.org/)
 
 ### 🤖 ML / AI Frameworks
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)](https://tensorflow.org/)
@@ -54,8 +56,6 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627)](https://www.tableau.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811)](https://powerbi.microsoft.com/)
 [![N8N](https://img.shields.io/badge/N8N-EA4B71)](https://n8n.io/)
-[![Rust](https://img.shields.io/badge/Rust-000000)](https://www.rust-lang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C)](https://isocpp.org/)
 
 ---
 
